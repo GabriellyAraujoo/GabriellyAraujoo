@@ -9,7 +9,7 @@ Acervo o que já construí, com o código aberto e a explicação do porquê de 
 - E-mail: gabycavalcantearaujo@gmail.com
 - Telefone / WhatsApp: +55 (61) 99364-6568
 - Portfólio: [gabriellyaraujoo.github.io](https://gabriellyaraujoo.github.io)
-- LinkedIn: [seu-perfil-aqui](https://www.linkedin.com/in/SEU-LINKIN) ← *troque pelo seu link*
+- LinkedIn: [linkedin.com/in/gabrielly-cavalcante-de-araujo-982209290](https://www.linkedin.com/in/gabrielly-cavalcante-de-araujo-982209290/)
 
 ## O que faço
 
