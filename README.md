@@ -21,6 +21,9 @@ SharePoint). Três estágios em engenharia, dados e requisitos.
 
 | Projeto | Tech | O que demonstra |
 |---|---|---|
+| [API de Aposentabilidade](https://github.com/GabriellyAraujoo/api-aposentabilidade) | Python · Flask · pytest · GitHub Actions | API REST em camadas, 44 testes, 99% de cobertura, CI em 4 versões do Python e imagem Docker |
+| [Estruturas de Dados](https://github.com/GabriellyAraujoo/estrutura-dados-dsa) | Python · pytest | Listas, pilhas, filas, tabelas hash, árvores, grafos e ordenação, com a complexidade documentada |
+| [Patches para o Orion Agent](https://github.com/GabriellyAraujoo/patches-orion-agent) | Python · open source | Contribuição a um agente open source: endpoint configurável, extração de resposta e sandbox |
 | [Analisador de Aposentabilidade](https://github.com/GabriellyAraujoo/analisador-aposentabilidade) | Python · Pandas · Excel | Leitura de dados real, conversão de datas serial, regra de negócio |
 | [Jogo de Pesca Concorrente](https://github.com/GabriellyAraujoo/jogo-pesca-concorrente) | Python · threading · NumPy | Semáforos por coordenada, proteção de estado compartilhado |
 | [Calculadora Pós-fixada](https://github.com/GabriellyAraujoo/calculadora-posfixada) | C · Pilha | Notação polonesa reversa, avaliação por pilha, doc com derivação passo a passo |
@@ -49,7 +52,10 @@ indicadores e análises, manutenção de dashboards. Contato com Power BI, QlikV
 ## Habilidades
 
 - **Linguagens** — Python, SQL (MySQL), TypeScript/JavaScript, React, C, Java, HTML/CSS
+- **Backend e API** — Flask, REST, validação de entrada, tratamento de erro, Docker
+- **Testes e CI/CD** — pytest, unittest, GitHub Actions, flake8, cobertura
 - **Dados e BI** — Pandas, NumPy, Power Query, Power BI, modelagem de dados, noções de DAX
+- **Algoritmos e estruturas de dados** — listas encadeadas, pilhas, filas, tabelas hash, árvores, grafos, ordenação e busca
 - **Automação e Microsoft** — Power Automate, Power Apps, SharePoint, n8n, Node.js
 - **Engenharia e processo** — levantamento de requisitos, testes funcionais, documentação técnica, Git/GitHub, Scrum
 
