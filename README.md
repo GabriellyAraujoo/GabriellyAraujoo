@@ -13,7 +13,8 @@ Acervo o que já construí, com o código aberto e a explicação do porquê de 
 
 ## O que faço
 
-Backend, dados e automação. Escrevo código em Python, SQL, TypeScript e C; trabalho com dados
+Backend, dados e automação. Escrevo código em Python, SQL, TypeScript, Java e C; construo APIs REST
+com Flask, com testes automatizados, CI/CD e Docker, e interfaces em React; trabalho com dados
 no Pandas, painéis no Power BI e automação no Power Platform (Power Automate, Power Apps,
 SharePoint). Três estágios em engenharia, dados e requisitos.
 
@@ -51,8 +52,9 @@ indicadores e análises, manutenção de dashboards. Contato com Power BI, QlikV
 
 ## Habilidades
 
-- **Linguagens** — Python, SQL (MySQL), TypeScript/JavaScript, React, C, Java, HTML/CSS
-- **Backend e API** — Flask, REST, validação de entrada, tratamento de erro, Docker
+- **Linguagens** — Python, SQL (MySQL), TypeScript/JavaScript, Java, C, HTML/CSS
+- **Backend e API** — Flask, APIs REST, validação de entrada, tratamento de erro, Docker; conhecimentos em FastAPI e Spring Boot
+- **Front-end** — React, TypeScript, JavaScript, HTML/CSS; conhecimentos em Angular
 - **Testes e CI/CD** — pytest, unittest, GitHub Actions, flake8, cobertura
 - **Dados e BI** — Pandas, NumPy, Power Query, Power BI, modelagem de dados, noções de DAX
 - **Algoritmos e estruturas de dados** — listas encadeadas, pilhas, filas, tabelas hash, árvores, grafos, ordenação e busca
